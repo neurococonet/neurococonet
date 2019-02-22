@@ -24,7 +24,7 @@ We are the Cognitive Neuroscience chapter of the [Colombian College of Neuroscie
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/coconut.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/coconut.JPG" alt="Slide 1" />
         </div>
        
     </div>
